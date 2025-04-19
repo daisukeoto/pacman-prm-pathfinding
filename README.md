@@ -22,11 +22,12 @@ This project implements a Pacman-like character navigating through a 2D environm
 
 pacman-prm-pathfinding/
 │
-├── README.md
-├── pacman-prm.pde              # Main sketch file
-├── images/                     # Folder for image assets
-│   ├── pacman2.png             # Pacman image
-│   └── ghost2.png              # Ghost image
+├── README.md                 # Project description and instructions
+├── pacman-prm.pde           # Main Processing sketch file
+│
+└── images/                  # Folder for image assets
+    ├── pacman2.png          # Pacman image
+    └── ghost2.png           # Ghost image
 
 ## 🚀 Getting Started
 

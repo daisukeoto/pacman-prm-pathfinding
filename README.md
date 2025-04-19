@@ -49,7 +49,8 @@ Download from: https://processing.org/download/
 
 ## 🖼️ Screenshots
 
-> _You can add some screenshots of the grid, nodes, or animated Pacman here._
+<img width="1049" alt="スクリーンショット 2025-04-19 0 05 27" src="https://github.com/user-attachments/assets/a1b57269-4718-4bb2-90e9-a57fd21eb629" />
+
 
 ## 🛠️ Todo
 

@@ -20,13 +20,13 @@ This project implements a Pacman-like character navigating through a 2D environm
 
 ## 📦 Folder Structure
 
-pacman-prm-pathfinding/ ├── pacman-prm.pde # Main sketch file ├── images/ │ ├── pacman2.png # Pacman image │ └── ghost2.png # Ghost image
-
-markdown
-コピーする
-編集する
-
-> Note: You can break `Vec2`, utilities, or collision code into `.pde` files, and Processing will treat them as one sketch.
+pacman-prm-pathfinding/
+│
+├── README.md
+├── pacman-prm.pde              # Main sketch file
+├── images/                     # Folder for image assets
+│   ├── pacman2.png             # Pacman image
+│   └── ghost2.png              # Ghost image
 
 ## 🚀 Getting Started
 
